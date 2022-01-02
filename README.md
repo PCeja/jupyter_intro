@@ -23,5 +23,8 @@ Machine learning project to learn&predict the kind of music people like by gende
 * Predictions by gender, age.
 * Model accuracy check with 'accuracy_score'.
 * Model persistance with 'joblib'.:
-    * dataBaseIsUsedIfDataIsPresent & webServiceIsUsedIfDataIsNotPresentinDB(interface class).
+* Graphs generation with 'tree'
 
+<p align="center">
+  <img style='width: 35%' alt="Scikit learn" src="https://i.imgur.com/xvqhpJ9.png" />
+</p>
