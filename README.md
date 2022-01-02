@@ -26,5 +26,5 @@ Machine learning project to learn&predict the kind of music people like by gende
 * Graphs generation with 'tree'
 
 <p align="center">
-  <img style='width: 35%' alt="Scikit learn" src="https://i.imgur.com/xvqhpJ9.png" />
+  <img style='width: 60%' alt="Scikit learn" src="https://i.imgur.com/xvqhpJ9.png" />
 </p>
