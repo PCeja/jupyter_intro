@@ -5,11 +5,11 @@ Machine learning project to learn&predict the kind of music people like by gende
 </p>
 
 <p align="center">
-  <img style='width: 40%' alt="Jupyter" src="https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Jupyter_main.png" />
+  <img style='width: 60%' alt="Jupyter" src="https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Jupyter_main.png" />
 </p>
 
 <p align="center">
-  <img style='width: 50%' alt="Scikit learn" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png" />
+  <img style='width: 45%' alt="Scikit learn" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png" />
 </p>
 
 ## <div align="center">Documentation</div>
