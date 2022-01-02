@@ -9,7 +9,7 @@ Machine learning project to learn&predict the kind of music people like by gende
 </p>
 
 <p align="center">
-  <img style='width: 45%' alt="Scikit learn" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png" />
+  <img style='width: 35%' alt="Scikit learn" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png" />
 </p>
 
 ## <div align="center">Documentation</div>
